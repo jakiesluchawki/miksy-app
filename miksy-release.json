@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "kind": "production",
+  "app_url": "https://jakiesluchawki.github.io/miksy-app/",
+  "supabase_url": "https://epwmkmcahovprfwoxcvg.supabase.co"
+}
